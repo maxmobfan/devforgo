@@ -24,7 +24,7 @@
     {
       "ad_status": 1,
       "main_ad": "unity",
-      "backup_ad": "admob",
+   "backup_ad": "unity",
   "admob_banner_unit_id": "ca-app-pub-8799090825709075/90xxx",
       "admob_interstitial_unit_id": "ca-app-pub-8799090825709075/630xxx",
       "admob_native_unit_id": "ca-app-pub-8799090825709075/770xxx",
